@@ -1,0 +1,5 @@
+Download Julia version 1.8.4 from https://julialang.org/downloads/oldreleases/
+Execute dependencies.jl
+Execute run.jl
+The ABM output is stored in /User/"User Name"
+run.jl was executed with different input parameters for data analysis presented in supplementary computational material.
