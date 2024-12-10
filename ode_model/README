@@ -1,0 +1,5 @@
+For details of ODE model of the alternative pathway, check https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152337
+
+Download Julia version 1.8.4 from https://julialang.org/downloads/oldreleases/
+Execute dependencies.jl
+Execute run.jl
