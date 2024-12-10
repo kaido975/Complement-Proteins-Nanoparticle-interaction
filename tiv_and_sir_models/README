@@ -1,0 +1,3 @@
+Download Julia version 1.8.4 from https://julialang.org/downloads/oldreleases/
+Execute dependencies.jl
+Execute run.jl
